@@ -2,9 +2,10 @@
   "name": "blog",
   "version": "0.1.0",
   "engines": {
-    "node": "10.15.1"
+    "node": "10.15.1",
+    "npm": "*"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "blueimp-md5": "^2.3.0",
     "feed": "^2.0.2",
