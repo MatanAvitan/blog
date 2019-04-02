@@ -4,4 +4,4 @@ build
 *.log
 dist
 TODO.md
-
+.idea
